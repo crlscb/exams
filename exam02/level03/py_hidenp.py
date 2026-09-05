@@ -1,4 +1,5 @@
 from termcolor import colored
+
 """
 Write a function that checks whether the string 'small' is a
 subsequence of 'big'. A subsequence means that all characters in 'small'
